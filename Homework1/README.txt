@@ -5,3 +5,4 @@ Files: README.txt, WGatlin_Homework1.pdf, WGatlin_Homework1.ipynb
 Instructions for Code: Jupyter Notebook
 References: In class notes/notebooks, cpsc392 notebooks
 Description: Using SVMs, Linear Regression, and KNN models with the best hyperparameters (using gridsearch) to classify groups. Abritrary predictor variables with arbitary groups. 
+Jupyter Notebook contains code. PDF contains an in depth explanation and analysis of my code, process, and results.
